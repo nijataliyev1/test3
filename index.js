@@ -1,5 +1,5 @@
 const express = require('express')
-let data = require('./data.js')
+let data = require('api.mocki.io/v2/e3990735/')
 
 
 const server = express();
